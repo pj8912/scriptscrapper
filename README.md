@@ -1,14 +1,10 @@
 # scriptscrapper
-IMSDB scrapper
-
-Movie script scrapping script from imsdb
+IMSDB movie script scrapper
 
 ## Demo
 
 
 https://github.com/pj8912/scriptscrapper/assets/59218902/b11f8ad7-22a0-482d-819a-6141a0c1b084
-
-
 
 
 
